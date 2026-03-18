@@ -1,0 +1,4 @@
+interface:
+  display_name: "Talent Sourcing Scorer"
+  short_description: "Assess public signals for early-stage VC talent sourcing"
+  default_prompt: "Use $talent-sourcing-scorer to assess whether a person is worth prioritizing for early-stage VC sourcing."
